@@ -1,6 +1,6 @@
 # 📊 Poll Results Visualizer
 
-> End-to-end data analytics pipeline for survey and poll data.
+> End-to-end data analytics pipeline for survey and poll data. 
 
 ---
 
