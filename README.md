@@ -187,20 +187,28 @@ streamlit run dashboard.py
 
 -----
 
+---
+
 ## 🖼️ Screenshots & Outputs
 
-### 01\. Vote Share Distribution
-
+### 01. Vote Share Distribution
 > Provides an immediate high-level view of which options are leading.
+![Vote Share Bar](outputs/charts/01_vote_share_bar.png)
+![Vote Share Pie](outputs/charts/02_vote_share_pie.png)
 
-### 02\. Demographic Heatmap
-
+### 02. Demographic Heatmap
 > Visualizes regional dominance and identifies market gaps.
+![Region Heatmap](outputs/charts/05_region_heatmap.png)
+![Region Stacked Bar](outputs/charts/03_region_stacked_bar.png)
 
-### 03\. Satisfaction & Trends
+### 03. Satisfaction & Trends
+> Tracks how sentiment changes over time and quantifies user satisfaction scores.
+![Satisfaction Score](outputs/charts/06_satisfaction_score.png)
+![Trend Line](outputs/charts/07_trend_line.png)
 
-> Tracks how sentiment changes over time and quantifies user satisfaction scores across categories.
-
+### 04. Age & Gender Analysis
+![Age Group Bar](outputs/charts/04_age_group_bar.png)
+![Gender Bar](outputs/charts/08_gender_bar.png)
 -----
 
 ## 🎓 Learning Outcomes
