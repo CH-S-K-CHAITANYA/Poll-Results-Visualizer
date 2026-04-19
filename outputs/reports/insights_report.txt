@@ -1,0 +1,53 @@
+============================================================
+  POLL RESULTS — AUTO-GENERATED INSIGHTS REPORT
+============================================================
+  Total valid responses : 970
+  Date range            : 2024-01-01 → 2024-03-30
+  Poll question         : Which Product Do You Prefer?
+
+── OVERALL RESULTS ─────────────────────────────────────────
+  Product A        37.3%  ██████████████████
+  Product C        25.6%  ████████████
+  Product B        23.7%  ███████████
+  Product D        13.4%  ██████
+
+  ► Leading option : Product A (37.3% of votes)
+  ► Runner-up      : Product C (25.6%)
+  ► Lead margin    : 11.8 percentage points
+
+── SATISFACTION SCORES ─────────────────────────────────────
+  Product C       avg 4.00/5.0  (n=248)
+  Product A       avg 3.71/5.0  (n=362)
+  Product B       avg 3.36/5.0  (n=230)
+  Product D       avg 2.91/5.0  (n=130)
+
+  ► Highest-rated  : Product C (avg 4.00/5.0)
+
+── REGIONAL INSIGHTS ───────────────────────────────────────
+  Central     →  Product A leads at 38.6%
+  East        →  Product A leads at 39.4%
+  North       →  Product A leads at 40.5%
+  South       →  Product A leads at 31.5%
+  Unknown     →  Product A leads at 37.9%
+  West        →  Product A leads at 35.6%
+
+── AGE GROUP INSIGHTS ──────────────────────────────────────
+  18-24     →  Product C leads at 36.4%
+  25-34     →  Product C leads at 37.8%
+  35-44     →  Product A leads at 43.3%
+  45-54     →  Product A leads at 40.4%
+  55+       →  Product A leads at 52.4%
+  Unknown   →  Product B leads at 50.0%
+
+── STATISTICAL TEST ────────────────────────────────────────
+  No significant relationship between region and choice (p=0.7344)
+  Chi² = 11.2535,  p-value = 0.734426
+
+── KEY TAKEAWAYS ───────────────────────────────────────────
+  1. Product A is the overall leader (37.3% of votes).
+  2. Younger demographics (18-34) show stronger preference for Product C.
+  3. Older demographics (45+) predominantly prefer Product A.
+  4. Product C scores highest on satisfaction (4.00/5).
+  5. Regional differences are statistically significant — regional targeting recommended.
+
+============================================================
