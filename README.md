@@ -1,6 +1,6 @@
 # 📊 Poll Results Visualizer
 
-> End-to-end data analytics pipeline for survey and poll data — built for placement portfolios.
+> End-to-end data analytics pipeline for survey and poll data.
 
 ---
 
