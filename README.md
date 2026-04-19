@@ -220,12 +220,20 @@ streamlit run dashboard.py
 
 -----
 
-\<div align="center"\>
+## 👤 Author
 
-**Built by [CH S K CHAITANYA]**
+**CH S K CHAITANYA**
 
-*Demonstrating expertise in Data Analytics, Python Automation, and Business Intelligence.*
+- 📧 your.email@email.com
+- 🔗 [LinkedIn](https://linkedin.com/in/chskchaitanya)
+- 🐙 [GitHub](https://github.com/CH-S-K-CHAITANYA)
 
-[](https://www.google.com/search?q=https://github.com/CH-S-K-CHAITANYA/Poll-Results-Visualizer)
+---
 
-\</div\>
+## 📄 License
+
+This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
+
+---
+
+> ⭐ If this project helped you, please give it a star on GitHub!
